@@ -1,0 +1,3 @@
+fixed_acidity,volatile_acidity,citric_acid,residual_sugar,chlorides,free_sulfur_dioxide,total_sulfur_dioxide,density,pH,sulphates,alcohol,is_red
+5,0.74,0,1.2,0.041,16,46,0.99258,4.01,0.59,12.5,1
+7.2,0.2,0.38,1,0.037,21,74,0.9918,3.21,0.37,11,0
